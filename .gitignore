@@ -1,0 +1,6 @@
+calc
+parser.tab.c
+parser.tab.h
+lex.yy.c
+.DS_Store
+*.output
