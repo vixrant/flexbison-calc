@@ -17,6 +17,9 @@
 "/" { return T_SLASH; }
 "(" { return T_LEFT; }
 ")" { return T_RIGHT; }
+"|" { return T_ABS; }
+"%" { return T_PERC; }
+"^" { return T_POWER; }
 "exit" { return T_QUIT; }
 
 %%
